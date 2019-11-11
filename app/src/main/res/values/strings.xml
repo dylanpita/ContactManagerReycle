@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactManagerRecycle</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+    <string name="name">Name</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="buttonText">Go Back</string>
+</resources>
